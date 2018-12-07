@@ -1,1 +1,1 @@
-OWOP.chat.send("hoi")
+OWOP.chat.clear
